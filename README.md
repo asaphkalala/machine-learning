@@ -1,4 +1,3 @@
-# Machine Learning Coursework (Partnered)
-
-Contributed by: Asaph Kalala, Tyler Young\
-Grade: TBD
+# Machine Learning Coursework 
+\
+Grade: 65
