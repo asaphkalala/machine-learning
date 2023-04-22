@@ -3,7 +3,6 @@ This task involves solving a regression problem related to predicting energy eff
 
 The dataset for this task included 9 features, denoted by X0, X1, ..., X8, and an outcome variable Y which needed to be predicted. The dataset contained missing values. Here is the meaning of the 10 variables:
 
-Markup: 
 * X0:  Category of the building
 * X1: Relative Compactness
 * X2: Surface Area
